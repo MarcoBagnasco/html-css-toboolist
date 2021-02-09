@@ -7,5 +7,16 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
-    background-color: #eeeeee;
+    background-color:#f6f8f9;
+}
+
+/*VERT. ALIGN*/
+.img-v-align{
+    vertical-align: middle;
+}
+
+/*HEADER*/
+.main-header{
+    padding: 10px 20px;
+    background-color: white ;
 }
