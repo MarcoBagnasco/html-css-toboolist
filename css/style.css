@@ -63,24 +63,30 @@ h1{
     padding: 30px 50px;
 }
 h3{
-    margin-bottom: 10apx;
+    margin-bottom: 10px;
 }
-ul{
+.list-item{
     list-style: none;
+    margin-bottom: 20px;
 }
 .icon{
     display: inline-block;
-    width: 20px;
-    height: 20px;
-    line-height: 20px;
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+    line-height: 15px;
     text-align: center;
     vertical-align: middle;
+    font-size: 10px;
     font-weight: bold;
     color:#7bcbb9;
     border:2px solid;
     border-radius: 50%;
 }
-
+.icon-remove{
+    font-size: 6px;
+    color:red;
+}
 .label{
     display: inline-block;
     vertical-align: middle;
@@ -91,4 +97,19 @@ ul{
 }
 .blue-lable{
     background-color: #47adf1;
+}
+.violet-lable{
+    background-color: #9c72e4;
+}
+.aquamarine-lable{
+    background-color: #64c0a9;
+}
+.orange-lable{
+    background-color: #f29e33;
+}
+.magenta-lable{
+    background-color: #d863a1;
+}
+.green-lable{
+    background-color: #b0c926;
 }
